@@ -25,17 +25,11 @@ Whether I’m crafting sleek frontends, building solid backends, or experimentin
 
 ## 🚀 What I’m Up To  
 
-- 🧠 Building **[ProjectName]** — a web app that …  
+- 🧠 Building **[AddProp]** — a web app that …  
 - 🤖 Exploring the world of **Machine Learning**  
 - 💬 Giving back through **open source contributions**  
 
 ---
-
-## 🤝 Let’s Connect  
-
-🌐 [Portfolio / Website](#)  
-💼 [LinkedIn](https://www.linkedin.com/...)  
-🐦 [Twitter / X](#)  
 
 Let’s collaborate, share ideas, or just talk about tech, creativity, and everything in between.  
 
