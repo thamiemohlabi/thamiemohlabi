@@ -1,6 +1,6 @@
-# 👋 Hey there! I’m **Thamie Mohlabi**  
+# 👋 Hey there! I’m **Thamie**  
 
-💻 **Software Developer** based in **Mamelodi, South Africa**  
+💻 **Software Developer** based in **Pretoria, South Africa**  
 🌍 *Dreaming wide awake. Building one line of code at a time.*  
 
 ---
@@ -33,9 +33,7 @@ Whether I’m crafting sleek frontends, building solid backends, or experimentin
 
 Let’s collaborate, share ideas, or just talk about tech, creativity, and everything in between.  
 
----
-
-## 📈 GitHub Stats  
+--- 
 
 ![Thamie’s GitHub stats](https://github-readme-stats.vercel.app/api?username=thamiemohlabi&show_icons=true&theme=radical)
 
