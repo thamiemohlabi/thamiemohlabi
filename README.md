@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hey there! I’m **Thamie Mohlabi**  
 
-<!--
-**thamiemohlabi/thamiemohlabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Developer** based in **Mamelodi, South Africa**  
+🌍 *Dreaming wide awake. Building one line of code at a time.*  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ About Me  
+
+I’m a passionate software developer who loves turning complex problems into clean, efficient, and user-friendly solutions.  
+Whether I’m crafting sleek frontends, building solid backends, or experimenting with new technologies — I’m always chasing that *“aha!”* moment in code.  
+
+---
+
+## 🛠️ Tech Stack  
+
+**Languages:** JavaScript · Python · (and always learning more)  
+**Frameworks & Libraries:** React · Node.js · Express  
+**Databases:** PostgreSQL · MongoDB  
+**Tools & Platforms:** Git · Docker · REST APIs  
+
+💡 I enjoy building full-stack web apps, exploring creative side projects, and diving into new tech that keeps me curious.  
+
+---
+
+## 🚀 What I’m Up To  
+
+- 🧠 Building **[ProjectName]** — a web app that …  
+- 🤖 Exploring the world of **Machine Learning**  
+- 💬 Giving back through **open source contributions**  
+
+---
+
+## 🤝 Let’s Connect  
+
+🌐 [Portfolio / Website](#)  
+💼 [LinkedIn](https://www.linkedin.com/...)  
+🐦 [Twitter / X](#)  
+
+Let’s collaborate, share ideas, or just talk about tech, creativity, and everything in between.  
+
+---
+
+## 📈 GitHub Stats  
+
+![Thamie’s GitHub stats](https://github-readme-stats.vercel.app/api?username=thamiemohlabi&show_icons=true&theme=radical)
+
+---
