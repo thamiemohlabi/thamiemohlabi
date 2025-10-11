@@ -17,7 +17,7 @@ Whether I’m crafting sleek frontends, building solid backends, or experimentin
 **Languages:** JavaScript · Python · (and always learning more)  
 **Frameworks & Libraries:** React · Node.js · Express  
 **Databases:** PostgreSQL · MongoDB  
-**Tools & Platforms:** Git · Docker · REST APIs  
+**Tools & Platforms:** Git · Docker · REST APIs
 
 💡 I enjoy building full-stack web apps, exploring creative side projects, and diving into new tech that keeps me curious.  
 
@@ -31,10 +31,4 @@ Whether I’m crafting sleek frontends, building solid backends, or experimentin
 
 ---
 
-Let’s collaborate, share ideas, or just talk about tech, creativity, and everything in between.  
-
---- 
-
-![Thamie’s GitHub stats](https://github-readme-stats.vercel.app/api?username=thamiemohlabi&show_icons=true&theme=radical)
-
----
+Let’s collaborate, share ideas, or just talk about tech, creativity, and everything in between.
