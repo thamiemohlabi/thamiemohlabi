@@ -25,7 +25,7 @@ Whether I’m crafting sleek frontends, building solid backends, or experimentin
 
 ## 🚀 What I’m Up To  
 
-- 🧠 Building **[AddProp]** — a web app that …  
+- 🧠 Building **[Tech Startups]**  
 - 🤖 Exploring the world of **Machine Learning**  
 - 💬 Giving back through **open source contributions**  
 
